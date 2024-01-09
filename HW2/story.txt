@@ -1,2 +1,3 @@
 print('My new story!')
+print('Feature2 added')
 print('Changes in feature1')
